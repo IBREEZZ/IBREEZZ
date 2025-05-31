@@ -50,7 +50,6 @@
 
 ###
 
-<img src="https://github.com/IBREEZZ/IBREEZZ/blob/output/snake.svg?raw=true" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/IBREEZZ/IBREEZZ/output/snake.svg" alt="Snake animation" />
 
 ###
